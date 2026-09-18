@@ -9,7 +9,7 @@ This template auto discovers tape drives, and pulls key data for each drive:
  - Drive Port state
    
 Several other static items are created:
-  - AutoClean Enaabled
+  - AutoClean Enabled
   - Power Supply Status
   - Power Supply Redundancy State
   - Chassis Serial Number
