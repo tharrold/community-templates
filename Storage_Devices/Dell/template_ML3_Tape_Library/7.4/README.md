@@ -3,6 +3,8 @@ README.md
 This is a simple Zabbix template to apply to Dell ML3 tape libraries.
 There are no macros, and only a few value mappings.
 
+This template auto discovers tape drives, and pulls key data for each drive.
+
 Zabbix Version: 7.4
 
 Instructions:
